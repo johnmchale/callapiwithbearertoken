@@ -44,6 +44,17 @@ npm start
 
 - With just a few lines of code you have a secure React application that calls a secure `ASP.NET Web API .NET6`
 
+- Here is sample output
+
+<img width="558" alt="image" src="https://user-images.githubusercontent.com/38525955/215275717-13441818-543d-47d0-8e52-3502ca91f7dc.png">
+<img width="555" alt="image" src="https://user-images.githubusercontent.com/38525955/215275759-f621d866-7f22-4793-9345-875669d263c0.png">
+<img width="555" alt="image" src="https://user-images.githubusercontent.com/38525955/215275820-3c7bf9af-19b6-40a4-8919-d45cfcc63137.png">
+
+
+
+
+
+
 
 
 
