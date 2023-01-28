@@ -4,6 +4,7 @@
 ## Repo
 
 - This is a simple React application which calls an `ASP.NET Web API .NET6` application to test out auth0
+- n.b. the Web API application can be found at: https://github.com/johnmchale/AspNetWebApiNet6WithAuth0
 - It uses the default Microsoft `ASP.NET Web API .NET6` project with the WeatherForecast controller to return random weather forecasts
 - Both the React application and the `ASP.NET Web API .NET6` are protected using auth0
 - Once the repo has been cloned, to try it out, you will need to sign up to auth0 (https://www.auth0.com) and create a SPA application as shown below
